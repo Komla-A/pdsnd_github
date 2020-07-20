@@ -150,6 +150,7 @@ def main():
         #prints
         # descriptive statistics (as per the Project details page ) based on the users input
         #request user input (for raw data display)
+        #request user input (for raw data display)
         value = input("Do you want to display five records of data").lower()
         if value.lower() == 'yes':
             df.sample(5)
