@@ -13,7 +13,5 @@ Include the files used
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
-## Changes to documentation branch
-added comment to bikeshare.py
-updated readme file
-
+## Added refactoring branch
+made a few changes to this readme file
